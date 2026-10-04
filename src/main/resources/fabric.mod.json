@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "menu_doll",
+  "version": "${version}",
+  "name": "Menu Doll",
+  "icon": "assets/menu_doll/icon.png",
+  "description": "Purely visual: shows your skin as a doll on the main menu, looking at the cursor.",
+  "authors": [
+    {
+      "name": "user_aset",
+      "contact": {
+        "homepage": "https://github.com/asetllol",
+        "youtube": "https://www.youtube.com/@user_aset",
+        "x": "https://x.com/user_aset",
+        "tiktok": "https://www.tiktok.com/@user_aset",
+        "straw.page": "https://useraset.straw.page/"
+      }
+    }
+  ],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "modmenu": [ "dev.menudoll.MenuDollModMenu" ]
+  },
+  "mixins": [
+    "menu_doll.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.2",
+    "java": ">=25"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "menu_doll.config.title": "Menu Doll",
+  "menu_doll.config.preset": "Settings for: %s",
+  "menu_doll.config.preset.title": "main menu",
+  "menu_doll.config.preset.pause": "pause menu (in game)",
+  "menu_doll.config.enabled": "Show doll",
+  "menu_doll.config.show_name": "Show nickname",
+  "menu_doll.config.scale": "Size",
+  "menu_doll.config.offset_x": "X offset",
+  "menu_doll.config.offset_y": "Y offset",
+  "menu_doll.config.name_background": "Nickname background",
+  "menu_doll.config.reset": "Reset all",
+  "menu_doll.config.done": "Done",
+  "menu_doll.config.toggle": "%s: %s",
+  "menu_doll.config.slider": "%s: %s",
+  "menu_doll.config.on": "Yes",
+  "menu_doll.config.off": "No",
+  "menu_doll.config.side": "Side: %s",
+  "menu_doll.config.side.left": "left of buttons",
+  "menu_doll.config.side.right": "right of buttons",
+  "modmenu.descriptionTranslation.menu_doll": "Purely visual: shows your skin as a doll on the main menu, looking at the cursor.",
+  "modmenu.summaryTranslation.menu_doll": "Your skin as a doll on the main menu"
+}

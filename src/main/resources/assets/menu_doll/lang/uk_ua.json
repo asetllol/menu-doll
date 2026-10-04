@@ -1,0 +1,23 @@
+{
+  "menu_doll.config.title": "Menu Doll",
+  "menu_doll.config.preset": "Налаштування для: %s",
+  "menu_doll.config.preset.title": "головного меню",
+  "menu_doll.config.preset.pause": "меню паузи (у грі)",
+  "menu_doll.config.enabled": "Показувати модель",
+  "menu_doll.config.show_name": "Показувати нік",
+  "menu_doll.config.scale": "Розмір",
+  "menu_doll.config.offset_x": "Зсув по X",
+  "menu_doll.config.offset_y": "Зсув по Y",
+  "menu_doll.config.name_background": "Фон ніку",
+  "menu_doll.config.reset": "Скинути все",
+  "menu_doll.config.done": "Готово",
+  "menu_doll.config.toggle": "%s: %s",
+  "menu_doll.config.slider": "%s: %s",
+  "menu_doll.config.on": "Так",
+  "menu_doll.config.off": "Ні",
+  "menu_doll.config.side": "Сторона: %s",
+  "menu_doll.config.side.left": "ліворуч від кнопок",
+  "menu_doll.config.side.right": "праворуч від кнопок",
+  "modmenu.descriptionTranslation.menu_doll": "Чисто візуальний мод: показує вашу модель зі скіном у головному меню, яка дивиться на курсор.",
+  "modmenu.summaryTranslation.menu_doll": "Ваша модель зі скіном у головному меню"
+}

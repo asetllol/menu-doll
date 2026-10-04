@@ -1,0 +1,23 @@
+{
+  "menu_doll.config.title": "Menu Doll",
+  "menu_doll.config.preset": "Настройки для: %s",
+  "menu_doll.config.preset.title": "главного меню",
+  "menu_doll.config.preset.pause": "меню паузы (в игре)",
+  "menu_doll.config.enabled": "Показывать куклу",
+  "menu_doll.config.show_name": "Показывать ник",
+  "menu_doll.config.scale": "Размер",
+  "menu_doll.config.offset_x": "Сдвиг по X",
+  "menu_doll.config.offset_y": "Сдвиг по Y",
+  "menu_doll.config.name_background": "Фон ника",
+  "menu_doll.config.reset": "Сбросить всё",
+  "menu_doll.config.done": "Готово",
+  "menu_doll.config.toggle": "%s: %s",
+  "menu_doll.config.slider": "%s: %s",
+  "menu_doll.config.on": "Да",
+  "menu_doll.config.off": "Нет",
+  "menu_doll.config.side": "Сторона: %s",
+  "menu_doll.config.side.left": "слева от кнопок",
+  "menu_doll.config.side.right": "справа от кнопок",
+  "modmenu.descriptionTranslation.menu_doll": "Чисто визуальный мод: показывает ваш скин в виде куклы на главном меню, которая смотрит на курсор.",
+  "modmenu.summaryTranslation.menu_doll": "Ваш скин куклой на главном меню"
+}

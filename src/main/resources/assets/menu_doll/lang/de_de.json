@@ -1,0 +1,23 @@
+{
+  "menu_doll.config.title": "Menu Doll",
+  "menu_doll.config.preset": "Einstellungen für: %s",
+  "menu_doll.config.preset.title": "Hauptmenü",
+  "menu_doll.config.preset.pause": "Pausenmenü (im Spiel)",
+  "menu_doll.config.enabled": "Modell anzeigen",
+  "menu_doll.config.show_name": "Spielername anzeigen",
+  "menu_doll.config.scale": "Größe",
+  "menu_doll.config.offset_x": "X-Versatz",
+  "menu_doll.config.offset_y": "Y-Versatz",
+  "menu_doll.config.name_background": "Hintergrund des Spielernamens",
+  "menu_doll.config.reset": "Alles zurücksetzen",
+  "menu_doll.config.done": "Fertig",
+  "menu_doll.config.toggle": "%s: %s",
+  "menu_doll.config.slider": "%s: %s",
+  "menu_doll.config.on": "Ja",
+  "menu_doll.config.off": "Nein",
+  "menu_doll.config.side": "Position: %s",
+  "menu_doll.config.side.left": "links neben den Schaltflächen",
+  "menu_doll.config.side.right": "rechts neben den Schaltflächen",
+  "modmenu.descriptionTranslation.menu_doll": "Ein rein visueller Mod, der dein Spieler-Modell mit deinem Skin im Hauptmenü anzeigt und es zum Cursor blicken lässt.",
+  "modmenu.summaryTranslation.menu_doll": "Dein Spieler-Modell im Hauptmenü"
+}

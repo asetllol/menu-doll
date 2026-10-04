@@ -1,0 +1,23 @@
+{
+  "menu_doll.config.title": "Menu Doll",
+  "menu_doll.config.preset": "Налады для: %s",
+  "menu_doll.config.preset.title": "галоўнага меню",
+  "menu_doll.config.preset.pause": "меню паўзы (у гульні)",
+  "menu_doll.config.enabled": "Паказваць мадэль",
+  "menu_doll.config.show_name": "Паказваць нік",
+  "menu_doll.config.scale": "Памер",
+  "menu_doll.config.offset_x": "Зрух па X",
+  "menu_doll.config.offset_y": "Зрух па Y",
+  "menu_doll.config.name_background": "Фон ніку",
+  "menu_doll.config.reset": "Скінуць усё",
+  "menu_doll.config.done": "Гатова",
+  "menu_doll.config.toggle": "%s: %s",
+  "menu_doll.config.slider": "%s: %s",
+  "menu_doll.config.on": "Так",
+  "menu_doll.config.off": "Не",
+  "menu_doll.config.side": "Бок: %s",
+  "menu_doll.config.side.left": "злева ад кнопак",
+  "menu_doll.config.side.right": "справа ад кнопак",
+  "modmenu.descriptionTranslation.menu_doll": "Чыста візуальны мод: паказвае вашу мадэль са скінам у галоўным меню, якая глядзіць на курсор.",
+  "modmenu.summaryTranslation.menu_doll": "Ваша мадэль са скінам у галоўным меню"
+}

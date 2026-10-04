@@ -1,0 +1,23 @@
+{
+  "menu_doll.config.title": "Menu Doll",
+  "menu_doll.config.preset": "設定対象: %s",
+  "menu_doll.config.preset.title": "メインメニュー",
+  "menu_doll.config.preset.pause": "ポーズメニュー（ゲーム内）",
+  "menu_doll.config.enabled": "モデルを表示",
+  "menu_doll.config.show_name": "ユーザー名を表示",
+  "menu_doll.config.scale": "サイズ",
+  "menu_doll.config.offset_x": "X軸の位置調整",
+  "menu_doll.config.offset_y": "Y軸の位置調整",
+  "menu_doll.config.name_background": "ユーザー名の背景",
+  "menu_doll.config.reset": "すべてリセット",
+  "menu_doll.config.done": "完了",
+  "menu_doll.config.toggle": "%s: %s",
+  "menu_doll.config.slider": "%s: %s",
+  "menu_doll.config.on": "はい",
+  "menu_doll.config.off": "いいえ",
+  "menu_doll.config.side": "位置: %s",
+  "menu_doll.config.side.left": "ボタンの左側",
+  "menu_doll.config.side.right": "ボタンの右側",
+  "modmenu.descriptionTranslation.menu_doll": "純粋なビジュアルModです。メインメニューに自分のスキンを使用したプレイヤーモデルを表示し、カーソルの方向を向かせます。",
+  "modmenu.summaryTranslation.menu_doll": "メインメニューに表示される自分のプレイヤーモデル"
+}

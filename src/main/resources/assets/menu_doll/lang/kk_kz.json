@@ -1,0 +1,23 @@
+{
+  "menu_doll.config.title": "Menu Doll",
+  "menu_doll.config.preset": "Баптаулар: %s",
+  "menu_doll.config.preset.title": "негізгі мәзір",
+  "menu_doll.config.preset.pause": "ойындағы кідірту мәзірі",
+  "menu_doll.config.enabled": "Қуыршақты көрсету",
+  "menu_doll.config.show_name": "Никті көрсету",
+  "menu_doll.config.scale": "Өлшемі",
+  "menu_doll.config.offset_x": "X бойынша жылжыту",
+  "menu_doll.config.offset_y": "Y бойынша жылжыту",
+  "menu_doll.config.name_background": "Никтің фоны",
+  "menu_doll.config.reset": "Барлығын қалпына келтіру",
+  "menu_doll.config.done": "Дайын",
+  "menu_doll.config.toggle": "%s: %s",
+  "menu_doll.config.slider": "%s: %s",
+  "menu_doll.config.on": "Иә",
+  "menu_doll.config.off": "Жоқ",
+  "menu_doll.config.side": "Орналасуы: %s",
+  "menu_doll.config.side.left": "батырмалардың сол жағында",
+  "menu_doll.config.side.right": "батырмалардың оң жағында",
+  "modmenu.descriptionTranslation.menu_doll": "Тек визуалды мод: негізгі мәзірде курсорға қарайтын скиніңізді қуыршақ түрінде көрсетеді.",
+  "modmenu.summaryTranslation.menu_doll": "Негізгі мәзірдегі скиніңіз қуыршақ ретінде"
+}

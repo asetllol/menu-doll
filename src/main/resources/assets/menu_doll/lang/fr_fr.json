@@ -1,0 +1,23 @@
+{
+  "menu_doll.config.title": "Menu Doll",
+  "menu_doll.config.preset": "Paramètres pour : %s",
+  "menu_doll.config.preset.title": "menu principal",
+  "menu_doll.config.preset.pause": "menu de pause (en jeu)",
+  "menu_doll.config.enabled": "Afficher le modèle",
+  "menu_doll.config.show_name": "Afficher le pseudo",
+  "menu_doll.config.scale": "Taille",
+  "menu_doll.config.offset_x": "Décalage sur X",
+  "menu_doll.config.offset_y": "Décalage sur Y",
+  "menu_doll.config.name_background": "Arrière-plan du pseudo",
+  "menu_doll.config.reset": "Tout réinitialiser",
+  "menu_doll.config.done": "Terminé",
+  "menu_doll.config.toggle": "%s : %s",
+  "menu_doll.config.slider": "%s : %s",
+  "menu_doll.config.on": "Oui",
+  "menu_doll.config.off": "Non",
+  "menu_doll.config.side": "Côté : %s",
+  "menu_doll.config.side.left": "à gauche des boutons",
+  "menu_doll.config.side.right": "à droite des boutons",
+  "modmenu.descriptionTranslation.menu_doll": "Un mod purement visuel qui affiche votre modèle avec votre skin dans le menu principal et le fait regarder vers le curseur.",
+  "modmenu.summaryTranslation.menu_doll": "Votre modèle avec votre skin dans le menu principal"
+}
