@@ -41,7 +41,7 @@ public final class MenuDollConfigScreen extends Screen {
                         Component.translatable(pauseMode ? "menu_doll.config.preset.pause" : "menu_doll.config.preset.title")),
                 b -> {
                     MenuDollConfig.save();
-                    this.minecraft.gui.setScreen(new MenuDollConfigScreen(parent, !pauseMode));
+                    this.minecraft.setScreen(new MenuDollConfigScreen(parent, !pauseMode));
                 }).bounds(left, y, 200, 20).build());
         y += step;
 
@@ -74,7 +74,7 @@ public final class MenuDollConfigScreen extends Screen {
         int bottom = this.height - 28;
         addRenderableWidget(Button.builder(Component.translatable("menu_doll.config.reset"), b -> {
             MenuDollConfig.resetToDefaults();
-            this.minecraft.gui.setScreen(new MenuDollConfigScreen(parent, pauseMode));
+            this.minecraft.setScreen(new MenuDollConfigScreen(parent, pauseMode));
         }).bounds(left, bottom - 24, 200, 20).build());
 
         addRenderableWidget(Button.builder(Component.translatable("menu_doll.config.done"), b -> onClose())
@@ -115,7 +115,7 @@ public final class MenuDollConfigScreen extends Screen {
     @Override
     public void onClose() {
         MenuDollConfig.save();
-        this.minecraft.gui.setScreen(parent);
+        this.minecraft.setScreen(parent);
     }
 
     /** Numeric slider: the value is constrained by the step and boundaries. */
